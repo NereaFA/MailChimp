@@ -1,0 +1,38 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.divpadre{
+    width:75%;
+    }
+.div1{
+    width: 25%;
+    float: left;
+}
+.div2{
+    float: left;
+    width:75%;
+    }
+.limpia{
+clear:both;
+}
+.lista1{
+    float:left;
+}
+.lista2{
+    float:left;
+}
+.pequeño{
+    font-size:small;
+}
+.boton{
+    float:left;
+    width: 10%;
+}
+.check{
+    float:left;
+    width: 3%;
+}
+.textoCheck{
+    float:left;
+    width: 70%;
+}
